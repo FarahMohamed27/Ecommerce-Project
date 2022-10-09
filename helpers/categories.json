@@ -1,0 +1,21 @@
+
+
+[
+    {
+        "name":"Bags",
+        "id":"bags"
+},
+    {
+        "name":"T-Shirts",
+        "id":"t-shirts"
+},
+    {
+        "name":"Dresses",
+        "id":"dresses"
+},
+{
+    "name":"Accessories",
+    "id":"accessories"
+}
+
+]
