@@ -1,0 +1,67 @@
+.cartContainer
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.RemoveButton
+{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.cartRemove
+{
+    width: 135px;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+   /* background-color: rgb(94, 29, 154); */
+   background-color: blueviolet;
+   border-color: rgb(200, 191, 191) ;
+   font-size: 20px;
+   border-radius: 8px;
+    
+}
+.cartRemove:hover
+{
+    width: 160px ;
+    height: 40px ;
+    box-shadow: gray;
+    cursor: pointer;
+    transition-property: all;
+    transition-duration: 0.7s;
+    font-size: 23px ;
+}
+
+.Cartprod
+{
+    /* display: inline-block; */
+    font-size: 20px;
+    /* justify-content: center; */
+}
+.carttitle2 
+{
+    display: flex;
+    justify-content: center;
+    /* margin: 20px; */
+    text-align: center;
+    width: 150px;
+    margin: auto;
+    font-size: 24px;
+    font-family: Poppins,sans-serif;
+
+}
+.cartpriceObj
+{
+    display: flex;
+    /* margin: 20px; */
+    text-align: center;
+    justify-content: center;
+    font-family: Poppins,sans-serif;
+    color: #404040;
+}

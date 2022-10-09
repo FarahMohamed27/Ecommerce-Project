@@ -1,0 +1,110 @@
+
+.Inner
+{
+    display: flex;
+    padding: 0px 20px 0px 20px;
+    height: 80px;
+    justify-content: space-between;
+    /* border-bottom: solid;
+    border-width: 0.2px; */
+    
+}
+
+.Logo 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 3px;
+  
+}
+.Menu
+{
+    display: flex;
+    padding-left: 40px;
+    height: 100%;
+    padding-right: 40px;
+}
+.home , .About , .Contact1
+{
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    padding: auto;
+    margin: 30px 10px 30px 10px;
+    font-size: 20px;
+}
+.Search
+{
+    display: flex;
+    margin: 23.5px 16px;
+   
+   
+}
+.options
+{
+    display: flex;
+    margin: auto 0px;
+    
+    
+}
+.user
+{
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.Cart
+{
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+.searchBar
+{
+    width: 300px;
+    /* outline: none; */
+    height: 25px;
+    border-radius: 7px 0px 0px 7px;
+    border: 2px solid #ebebe0;
+}
+.searchButton
+{
+    
+    border-radius: 0px 7px 7px 0px;
+    height: 31px;
+    border-style: hidden;
+    width: 50px;
+    
+}
+.sOptions
+{
+    display: flex;
+}
+.home:hover
+{
+    text-shadow: 2px 2px 8px rgb(160, 155, 155);
+}
+.Contact1:hover
+{
+    text-shadow: 2px 2px 8px rgb(160, 155, 155);
+}
+.About:hover
+{
+    text-shadow: 2px 2px 8px rgb(160, 155, 155);
+}
+:link
+{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-family: sans-serif;
+}
+:visited
+{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+    font-family: sans-serif;
+}

@@ -1,0 +1,228 @@
+.Contact
+{
+    display: flex;
+    margin: 20px 30px 20px 30px;
+    justify-content: center;
+    font-family: Poppins,sans-serif;
+}
+.direct
+{
+    /* display: flex; */
+    margin: 50px;
+    justify-content: center;
+    background-color: #ebebe0 ;
+    height:550px ;
+    border-radius: 15px;
+}
+.call
+{
+    display: flex;
+    padding: 10px 30px 10px 30px;
+    height: fit-content;
+}
+.callIcon
+{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    height: fit-content;
+    border-style: solid;
+    border-radius: 25px;
+}
+.numbers
+{
+    display: flex;
+    margin: 20px;
+    padding: 0px 20px 0px 20px;
+    height: fit-content;
+    border-style: solid;
+    border-radius: 25px;
+    
+}
+.Email
+{
+    display: flex;
+    padding: 10px 30px 30px 30px;
+    height: fit-content;
+  
+}
+.emailIcon
+{
+    display: flex;  
+    height: fit-content;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 25px;
+   width: 20px;
+   margin: 0 20px;
+    
+}
+.emailAdd
+{
+    display: flex;
+    margin: 0 0 0 20px;
+    padding: 0px 20px 0px 20px;
+    height: fit-content;
+    border-style: solid;
+    border-radius: 25px;
+    width: fit-content;
+}
+.Location
+{
+    display: flex;
+    padding: 10px 30px 10px 30px;
+}
+.locationIcon
+{
+    display: flex;
+    padding: 20px;
+    margin: 0 20px;
+    border-style: solid;
+    border-radius: 25px;
+    
+    height: fit-content;
+}
+.locate
+{
+    display: flex;
+    margin: 0 0 0 20px;
+    padding: 0px 20px 0px 20px;
+    height: fit-content;
+    border-style: solid;
+    border-radius: 25px;
+    
+    width: fit-content;
+
+}
+.socialIcons
+{
+    display: flex;
+    justify-content: center;
+}
+.fb, .ig, .tw
+{
+    margin: 20px 10px;
+    height: fit-content;
+    width: fit-content;
+}
+.speedMail
+{
+    margin: 50px;
+    justify-content: center;
+    background-color: #ebebe0 ;
+    height:550px ;
+    border-radius: 15px;
+    width: 700px;
+}
+.mailcontainer
+{
+    display: flex;
+    justify-content: space-between;
+}
+.input1
+{
+    display: flex;
+   
+}
+.NameBar, .MailBar
+{
+    width: 275px;
+    height: 30px;
+    border-radius: 7px 7px 7px 7px;
+    border-style: solid;
+    border-color: #d7d4c8;
+}
+.NameBar
+{
+    margin: 20px 0px 20px 35px;
+}
+.MailBar
+{
+    margin: 20px 35px 20px 0px;
+}
+.Subject
+{
+    width: 619px;
+    height: 30px;
+    border-radius: 7px 7px 7px 7px;
+    border-style: solid;
+    border-color: #d7d4c8;
+}
+.textArea
+{
+    width: 622px;
+    margin: 20px;
+    margin-left: 40px;
+    height: 200px;
+    border-radius: 7px 7px 7px 7px;
+    border-style: solid;
+    border-color: #d7d4c8;
+}
+.subject1
+{
+    display: flex;
+    justify-content: center;
+}
+.sentence1 
+{
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+    margin-top: 30px;
+    /* color: blueviolet; */
+}
+.title
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+.sentence2
+{
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    margin: auto;
+    padding: auto; 
+    margin-top: 20px;
+    /* color: blueviolet; */
+}
+.button
+{
+    display: flex;
+    margin: 12px;
+    margin-left: 45px;
+}
+.sendButton
+{
+    width: 150px;
+    height: 40px;
+    border-style: hidden;
+    background-color: #8d8a8a;
+    border-radius: 7px;
+}
+.intro
+{
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    font-size: 35px;
+    font-family: Poppins,sans-serif;
+    color: blueviolet;
+}
+.times
+{
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    font-family: Poppins,sans-serif;
+    color: blueviolet;
+    font-size: 25px;
+    
+    padding: 12px;
+    
+}

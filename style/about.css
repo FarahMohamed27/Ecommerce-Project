@@ -1,0 +1,111 @@
+.welcomeArea
+{
+    /* display: flex; */
+    justify-content: center;
+}
+
+.Who
+{
+    font-size: 24px;
+    justify-content: center;
+    font-family:  Poppins,sans-serif;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+   
+   
+    
+}
+.welcome
+{
+    /* display: flex; */
+    text-align: center;
+    font-size: 25px;
+    font-family:  Poppins,sans-serif;
+    color: #404040;
+    margin: 15px;
+    
+}
+.paragraph
+{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-family: Poppins,sans-serif;
+    margin: 10px;
+    
+}
+.container
+{
+    /* background-color: #ebebe0; */
+    padding: 5px;
+    border-radius: 35px;
+    /* border-radius: 30px ; */
+    
+    
+}
+
+.employeeIcon
+{
+    width: fit-content;
+    margin: auto;
+    padding: 25px;
+}
+.employees , .sold , .globe
+{
+    width: 350px;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 25px;
+}
+.nearly 
+{ 
+    font-size: 25px;
+    font-family:Poppins,sans-serif ;
+    color:#666;
+    padding: 10px;
+}
+.Num , .soldNum , .sellingNum
+{
+    font-size: 35px;
+    font-family:Poppins,sans-serif ;
+    color: blueviolet;
+    padding: 10px;
+}
+.employeePar , .soldPar , .countries
+{
+    font-size: 25px;
+    font-family:Poppins,sans-serif ;
+    color:black;
+    padding: 5px;
+}
+.container2
+{
+    margin: 10px 120px;
+    display: flex;
+    background-color:#ebebe0 ;
+    border-radius: 30px;
+}
+.soldIcon 
+{
+    width: fit-content;
+    margin: 13px 90px;
+    padding: 30px;
+    padding-bottom: 19px;
+
+}
+
+.soldabout , .selling
+{
+    font-size: 25px;
+    font-family:Poppins,sans-serif ;
+    color:#666;
+    padding: 10px;
+}
+.globeIcon
+{
+    margin: 24px 70px;
+    margin-top: 50px;
+    
+}

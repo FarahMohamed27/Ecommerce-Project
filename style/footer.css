@@ -1,0 +1,55 @@
+.FooterContainer
+{
+    display: flex;
+    height: 200px;
+    background-color:#ebebe0 ;
+    margin-top: 50px;
+}
+.logoContainer
+{
+    margin: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.logoIcon
+{
+    padding: 15px;
+    /* width: fit-content; */
+    height: 80px;
+    padding-bottom: 0px;
+}
+.rights
+{
+    padding: 7px;
+    font-size: 15px;
+    font-family: Poppins,sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.callContainer , .emailContainer , .visitContainer , .followContainer
+{
+    text-align: center;
+    margin: 20px 50px;
+    justify-content: center;
+    font-family: Poppins,sans-serif;
+}
+.callUs , .forEmails , .visitUs , .followUsOn
+{
+    font-size: 24px;
+    font-family: Poppins,sans-serif;
+    margin: 10px;
+    padding: 5px;
+    color: #40401D;
+    /* color: blueviolet; */
+}
+.callNum1 , .email1 , .visitAdd1  , .followUs1
+{
+    display: flex;
+    margin: 15px;
+    font-size: 20px;
+}
+.callIcon1 , .emailIcon1 , .visitIcon1 , .fbIcon , .igIcon , .twIcon
+{
+    margin-right: 16px;
+}

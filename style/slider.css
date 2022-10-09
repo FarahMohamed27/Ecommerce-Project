@@ -1,0 +1,44 @@
+.slider
+{
+    display: flex;
+    justify-content: center;
+}
+.swiper
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 620px;
+    
+
+}
+.Img1 
+{
+    background-image: url(E:\reactProj\test-app\ecommerce\src\images\amanda-vick-ohWf6YuzOQk-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: inherit;
+    filter: brightness(70%);
+    
+}
+.Img2
+{
+    background-image:url(E:\reactProj\test-app\ecommerce\src\images\laura-chouette-7SUpG7j9VLg-unsplash.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: inherit;
+    filter: brightness(70%);
+}
+
+.Img4
+{
+    background-image: url(E:\reactProj\test-app\ecommerce\src\images\fanqi-VLy8wPYpV9s-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: inherit;
+    filter: brightness(80%);
+}
+
